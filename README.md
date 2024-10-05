@@ -2,7 +2,7 @@
 # Introducción
 # Parte I: 
 
-## Parte _: Opiniones Personales
+# Parte _: Opiniones Personales
 
 ## Sebastián Negrón:
 
