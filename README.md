@@ -71,5 +71,7 @@
 
 ## Mayra Lago:
 
+Este trabajo me sirvió para jugar un poco más con la física y las acciones dentro de un juego. Desde hacer que el robot tuviera "retroceso" a la hora de disparar o que las balas salieran saltando por el mapa. Por lo que me sirvió para explorar las mecánicas que se incorporaron y discutieron en clase. Aunque por otro lado, fue algo difícil lidiar con algunos problemas de sincronización en Unity, ya que en ocaciones las acciones que estaban programadas e implementadas no le funcionaban al resto de compañeros. Sin embargo pudimos realizar el trabajo de manera satisfactoria.  
+
 ## Jancarlos González:
 
