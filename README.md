@@ -43,6 +43,7 @@
 
 ## Paso 7: Inserta el script _PlayerMovement_ en el objeto. Este script controlará el movimiento del objeto dentro de la escena según las teclas asignadas en el paso anterior.
 ![image](https://github.com/user-attachments/assets/f0a0d748-86eb-49d0-bb4a-30a9805e77c5)
+![image](https://github.com/user-attachments/assets/85fc7641-c984-4491-a0d9-3e68172f1c0e)
 
 ## Paso 8: Crea el prefab de la bala junto con su script. para hacer esto tienes que... (PON INFORMACION AQUI NO ME RECUERDO BIEN EL PROCESO 😔)
 
