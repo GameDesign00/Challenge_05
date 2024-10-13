@@ -21,8 +21,10 @@
 ## Paso 1: Dirigite en las opciones superiores del proyecto a Edit > Project Settings > Player > Active Input Handling y cambiaras la opcion a _Input Package System(New)_. El proyecto se reseteara y reresara con el nuevo sistema
 ## Paso 2: Dirigite a Window > Package Manager > Packages: Unity Registry > Input System. Instalaras este paquete para el proyecto. Ahora pdemos crear los scripts para el jugador.
 ## Script #1: _PlayerMovement_
-ESte 
+Este C# script, asignado al personaje, tiene como funcion permitir que el personaje se desplaze en la escena utilizando las teclas WASD, Mouse X y el boton de espacio para saltar. A continuacion mostramos el script.
+## Script #2: _PlayerShoting_
 
+# Parte III: Algunos detalles adiciionales
 # Parte _: Opiniones Personales
 
 ## Sebastián Negrón:
