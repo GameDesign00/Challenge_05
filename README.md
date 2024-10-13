@@ -17,12 +17,16 @@
 | Fast vertical movement  | Shift + W/S keys                                       |
 
 # Parte II: Metodo nuevo de entradas y C# scripts para movimientos del personaje
-## El nuevo sistema de Unity de entradas es mucho mas eficiente y practico para el programador. A continuacion explicaremos como utilizar este sistema:
+## A continuacion, mostraremos por pasos como hacer que el personaje se mueva utilizando el metodo nuevo de intradas de Unity:
 ## Paso 1: Dirigite en las opciones superiores del proyecto a Edit > Project Settings > Player > Active Input Handling y cambiaras la opcion a _Input Package System(New)_. El proyecto se reseteara y reresara con el nuevo sistema
-## Paso 2: Dirigite a Window > Package Manager > Packages: Unity Registry > Input System. Instalaras este paquete para el proyecto. Ahora pdemos crear los scripts para el jugador.
-## Script #1: _PlayerMovement_
-Este C# script, asignado al personaje, tiene como funcion permitir que el personaje se desplaze en la escena utilizando las teclas WASD, Mouse X y el boton de espacio para saltar. A continuacion mostramos el script.
-## Script #2: _PlayerShoting_
+## Paso 2: Dirigite a Window > Package Manager > Packages: Unity Registry > Input System. Instalaras este paquete para el proyecto (lo utilizaremos en el paso #6)
+## Paso 3: Inserta el objeto que deseas aplicar el movimiento. Nosotros utilizamos el mismo robot de siempre del paquete de _SciFiWarriorPBRHPPolyart_.
+## Paso 4: Anade el componente de _Capsule Collider_ al objeto. Centralizalo para que este parejo con el objeto.
+## Paso 5: Anade el component de Rigidbody al objeto. Asegurate de activar la gravedad. Sugerimos que coloques debajo del objeto un plano o terreno para que este no se caiga al vacio infinito.
+## Paso 6: Anade el componente _Player Input_ al objeto. En el componente, te dirigiras a la seccion de _Actions_. Te pedira que guardes este componente en la carpeta que usted prefiera dentro del proyecto. Una vez guardado, Abres el componente y veras varias jerarquias, donde puedes ajustar los diferentes movimientos basados en el metodo de input (tecldo, control...)
+## Paso 7: Inserta los siguientes C# scripts al objeto: _PlayerMovement_. Este script se encargara de manejar que el objeto se desplaze a traves de la escena basado en las teclas que asignaste en el paso anterior.
+## Paso 8: Crea el prefab de la bala:
+
 
 # Parte III: Algunos detalles adiciionales
 # Parte _: Opiniones Personales
