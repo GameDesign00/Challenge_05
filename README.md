@@ -67,9 +67,9 @@
 
 # Opiniones Personales acerca del Proyecto
 
-## Sebastián Negrón:
+## Sebastián Negrón: El proyecto me ayudó muchísimo a practicar la parte de la física y el movimiento en la creación de videojuegos. Durante las clases, me quedé con algunas lagunas y dificultades al entender ciertos conceptos, pero este reto me ayudó a solidificar mi conocimiento. Además, me gustó mucho explorar otros detalles adicionales, como el cambio del cielo y el terreno utilizado. Creo que encaja perfectamente con el diseño del robot.
 
 ## Mayra Lago:
 
-## Jancarlos Gonzalez:
+## Jancarlos González:
 
