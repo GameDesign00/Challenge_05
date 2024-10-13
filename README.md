@@ -48,7 +48,8 @@
 ## Paso 8: Crea el prefab de la bala junto con su script. para hacer esto tienes que... (PON INFORMACION AQUI NO ME RECUERDO BIEN EL PROCESO 😔)
 
 ## Paso 9: Añade el script _PlayerShooting_ al personaje/objeto. Este script controlará el disparo de la bala desde el personaje. A continuación, te mostramos el script que se encarga de disparar:
-![image](https://github.com/user-attachments/assets/94d2864e-7017-467d-b529-8bf2599b8e3b)
+![image](https://github.com/user-attachments/assets/fb46d4e7-f15d-476e-aa06-34ea8b87b948)
+
 
 ## Al completar estos pasos, tu personaje debería poder moverse de manera rápida o lenta, rotar sobre el eje Y, disparar balas, y saltar. (INSERTAR VIDEOS)
 
