@@ -42,16 +42,19 @@
 ![image](https://github.com/user-attachments/assets/af4db345-6682-4faa-9aea-4cb039137f0e)
 
 ## Paso 7: Inserta el script _PlayerMovement_ en el objeto. Este script controlará el movimiento del objeto dentro de la escena según las teclas asignadas en el paso anterior.
-![image](https://github.com/user-attachments/assets/aa132381-689d-41b8-a08f-56c75b581b85)
+![image](https://github.com/user-attachments/assets/f0a0d748-86eb-49d0-bb4a-30a9805e77c5)
 
 ## Paso 8: Crea el prefab de la bala junto con su script. para hacer esto tienes que... (PON INFORMACION AQUI NO ME RECUERDO BIEN EL PROCESO 😔)
 
 ## Paso 9: Añade el script _PlayerShooting_ al personaje/objeto. Este script controlará el disparo de la bala desde el personaje. A continuación, te mostramos el script que se encarga de disparar:
 ![image](https://github.com/user-attachments/assets/94d2864e-7017-467d-b529-8bf2599b8e3b)
 
-## Al completar estos pasos, tu personaje debería poder moverse de manera rápida y lenta, rotar sobre el eje Y, disparar balas, y saltar. (INSERTAR VIDEOS)
-# Parte III: Algunos detalles adiciionales
+## Al completar estos pasos, tu personaje debería poder moverse de manera rápida o lenta, rotar sobre el eje Y, disparar balas, y saltar. (INSERTAR VIDEOS)
 
+# Parte III: Algunos Detalles Adicionales
+## Decidimos explorar un poco y anadimos otros componentes adicionales para que el resultado quede mucho mejor. 
+## Detalle #1: Para facilitar las grabaciones y mejorar la cinematografia, Ana
+## Detalle #2:
 # Opiniones Personales acerca del Proyecto
 
 ## Sebastián Negrón:
