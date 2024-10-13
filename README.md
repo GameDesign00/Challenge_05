@@ -45,7 +45,7 @@
 ![image](https://github.com/user-attachments/assets/f0a0d748-86eb-49d0-bb4a-30a9805e77c5)
 ![image](https://github.com/user-attachments/assets/85fc7641-c984-4491-a0d9-3e68172f1c0e)
 
-## Paso 8: Crea el prefab de la bala junto con su script. para hacer esto tienes que... (PON INFORMACION AQUI NO ME RECUERDO BIEN EL PROCESO 😔)
+## Paso 8: Crea el prefab de la bala junto con sus scripts de movimiento y de autodestrucción. Además de añadirle un sphere collider y un rigidbody para que tuviera física.  
 
 ## Paso 9: Añade el script _PlayerShooting_ al personaje/objeto. Este script controlará el disparo de la bala desde el personaje. A continuación, te mostramos el script que se encarga de disparar:
 ![image](https://github.com/user-attachments/assets/fb46d4e7-f15d-476e-aa06-34ea8b87b948)
