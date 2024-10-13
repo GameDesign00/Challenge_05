@@ -20,7 +20,7 @@
 
 # Parte II: Método Nuevo de Entradas y C# Scripts para Movimientos del Personaje
 
-## A continuación, se mostrara paso a paso cómo hacer que el personaje se mueva utilizando el nuevo método de entradas de Unity:
+## A continuación, se mostrará paso a paso cómo hacer que el personaje se mueva utilizando el nuevo método de entradas de Unity:
 
 ## Paso 1: Ve a Edit > Project Settings > Player > Active Input Handling y cambia la opción a Input Package System (New). El proyecto se reiniciará y volverá con el nuevo sistema de entradas activado.
 ![image](https://github.com/user-attachments/assets/f3f77d46-59d2-4325-9a6f-719a29eb31e2)
