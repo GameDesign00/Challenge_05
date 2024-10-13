@@ -1,6 +1,6 @@
 # Go Ahead and Jump
-# Introducción: 
-## Este desafío busca profundizar en la física de los videojuegos. Pasaremos del método antiguo de entradas de Unity al nuevo Input System, que permite un control más flexible y robusto. A diferencia del método anterior, el nuevo sistema facilita la configuración de controles para múltiples plataformas, mejora la detección de entradas complejas y permite gestionar varios dispositivos al mismo tiempo (como teclado, mouse y gamepads) de manera más eficiente. Además, añadiremos dos movimientos: saltos y desplazamientos rápidos, simulando correr, para una experiencia de juego más dinámica y fluida.
+## Introducción: 
+### Este desafío busca profundizar en la física de los videojuegos. Pasaremos del método antiguo de entradas de Unity al nuevo Input System, que permite un control más flexible y robusto. A diferencia del método anterior, el nuevo sistema facilita la configuración de controles para múltiples plataformas, mejora la detección de entradas complejas y permite gestionar varios dispositivos al mismo tiempo (como teclado, mouse y gamepads) de manera más eficiente. Además, añadiremos dos movimientos: saltos y desplazamientos rápidos, simulando correr, para una experiencia de juego más dinámica y fluida.
 
 # Parte I: Mapa de Entradas (Action Matrix)
 
@@ -25,7 +25,9 @@
 ## Paso 5: Anade el component de Rigidbody al objeto. Asegurate de activar la gravedad. Sugerimos que coloques debajo del objeto un plano o terreno para que este no se caiga al vacio infinito.
 ## Paso 6: Anade el componente _Player Input_ al objeto. En el componente, te dirigiras a la seccion de _Actions_. Te pedira que guardes este componente en la carpeta que usted prefiera dentro del proyecto. Una vez guardado, Abres el componente y veras varias jerarquias, donde puedes ajustar los diferentes movimientos basados en el metodo de input (tecldo, control...)
 ## Paso 7: Inserta los siguientes C# scripts al objeto: _PlayerMovement_. Este script se encargara de manejar que el objeto se desplaze a traves de la escena basado en las teclas que asignaste en el paso anterior.
-## Paso 8: Crea el prefab de la bala:
+## Paso 8: Crea el prefab de la bala junto con su script. para hacer esto tienes que... (ANADE INFORMACION AQUI NO ME RECUERDO BIEN EL PROCESO 😔)
+## Paso 9: Anade al personaje/objeto el script de _PlayerShooting_: Este script se encargara de disparar la bala desde el personaje. A continuacion mostramos el script:
+## Una vez hecho estos pasos, el objeto deberia estar listo para moverse tanto rapido como lento, rotar en el eje y, dispararar balas y saltar.
 
 
 # Parte III: Algunos detalles adiciionales
