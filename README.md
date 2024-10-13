@@ -54,9 +54,17 @@
 ## Al completar estos pasos, tu personaje debería poder moverse de manera rápida o lenta, rotar sobre el eje Y, disparar balas, y saltar. (INSERTAR VIDEOS)
 
 # Parte III: Algunos Detalles Adicionales
-## Decidimos explorar un poco y anadimos otros componentes adicionales para que el resultado quede mucho mejor. 
-## Detalle #1: Para facilitar las grabaciones y mejorar la cinematografia, Ana
-## Detalle #2:
+## Decidimos explorar un poco más y añadimos algunos componentes adicionales para mejorar el resultado final.
+## Detalle #1: Seguimiento de la Cámara
+## Para facilitar las grabaciones y mejorar la cinematografía, añadimos un script a la cámara principal para que siga al personaje mientras se desplaza por la escena. La cámara se ajusta utilizando dos variables: offset y smoothSpeed. Offset controla la distancia y el ángulo de la cámara respecto al personaje. smoothSpeed determina la suavidad del movimiento de la cámara al seguir al personaje.
+![image](https://github.com/user-attachments/assets/953db868-e2b1-4cb1-8406-0cee0142f3f9)
+![image](https://github.com/user-attachments/assets/dfcbd88b-57fc-48a8-9013-b4cbdd682a4e)
+
+## Detalle #2: Tema Lunar
+## Para este proyecto, decidimos mantener un tema lunar. Importamos desde la tienda un paisaje espacial llamado Lunar Landscape 3D, y luego insertamos el terreno proporcionado por el paquete. Finalmente, cambiamos el skybox a uno espacial (Milky Way). Para hacer este cambio, sigue estos pasos: Ve a Window > Rendering > Lighting > Environment. Haz drag and drop del cielo que deseas usar en el campo correspondiente.
+![image](https://github.com/user-attachments/assets/2c11553b-a2ee-4461-a455-beab3772400a)
+![image](https://github.com/user-attachments/assets/b52abd2c-32a3-4bd5-a54f-b3091e466b60)
+
 # Opiniones Personales acerca del Proyecto
 
 ## Sebastián Negrón:
