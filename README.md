@@ -16,22 +16,22 @@
 | Fast horizontal movement| Shift + A/D keys                                       |
 | Fast vertical movement  | Shift + W/S keys                                       |
 
-# Parte II: Metodo nuevo de entradas y C# scripts para movimientos del personaje
-## A continuacion, mostraremos por pasos como hacer que el personaje se mueva utilizando el metodo nuevo de intradas de Unity:
-## Paso 1: Dirigite en las opciones superiores del proyecto a Edit > Project Settings > Player > Active Input Handling y cambiaras la opcion a _Input Package System(New)_. El proyecto se reseteara y reresara con el nuevo sistema
-## Paso 2: Dirigite a Window > Package Manager > Packages: Unity Registry > Input System. Instalaras este paquete para el proyecto (lo utilizaremos en el paso #6)
-## Paso 3: Inserta el objeto que deseas aplicar el movimiento. Nosotros utilizamos el mismo robot de siempre del paquete de _SciFiWarriorPBRHPPolyart_.
-## Paso 4: Anade el componente de _Capsule Collider_ al objeto. Centralizalo para que este parejo con el objeto.
-## Paso 5: Anade el component de Rigidbody al objeto. Asegurate de activar la gravedad. Sugerimos que coloques debajo del objeto un plano o terreno para que este no se caiga al vacio infinito.
-## Paso 6: Anade el componente _Player Input_ al objeto. En el componente, te dirigiras a la seccion de _Actions_. Te pedira que guardes este componente en la carpeta que usted prefiera dentro del proyecto. Una vez guardado, Abres el componente y veras varias jerarquias, donde puedes ajustar los diferentes movimientos basados en el metodo de input (tecldo, control...)
-## Paso 7: Inserta los siguientes C# scripts al objeto: _PlayerMovement_. Este script se encargara de manejar que el objeto se desplaze a traves de la escena basado en las teclas que asignaste en el paso anterior.
-## Paso 8: Crea el prefab de la bala junto con su script. para hacer esto tienes que... (ANADE INFORMACION AQUI NO ME RECUERDO BIEN EL PROCESO 😔)
-## Paso 9: Anade al personaje/objeto el script de _PlayerShooting_: Este script se encargara de disparar la bala desde el personaje. A continuacion mostramos el script:
-## Una vez hecho estos pasos, el objeto deberia estar listo para moverse tanto rapido como lento, rotar en el eje y, dispararar balas y saltar.
-
+# Parte II: Método Nuevo de Entradas y C# Scripts para Movimientos del Personaje
+## A continuación, te mostraremos paso a paso cómo hacer que el personaje se mueva utilizando el nuevo método de entradas de Unity:
+## Paso 1: Ve a Edit > Project Settings > Player > Active Input Handling y cambia la opción a Input Package System (New). El proyecto se reiniciará y volverá con el nuevo sistema de entradas activado.
+## Paso 2: Dirígete a Window > Package Manager > Packages: Unity Registry > Input System. Instala este paquete para el proyecto, lo cual será necesario en el paso #6.
+## Paso 3: Inserta el objeto que deseas mover. En este ejemplo, utilizamos el robot del paquete _SciFiWarriorPBRHPPolyart_.
+## Paso 4: Añade el componente _Capsule Collider_ al objeto. Asegúrate de centralizarlo para que quede alineado con el objeto.
+## Paso 5: Añade el componente _Rigidbody_ al objeto y activa la gravedad. Te sugerimos colocar un plano o terreno debajo del objeto para evitar que caiga al vacío.
+## Paso 6: Añade el componente _Player Input_ al objeto. En la sección de Actions, guarda este componente en la carpeta de tu elección. Al abrir el componente, verás varias jerarquías donde podrás ajustar los diferentes movimientos y acciones según el método de entrada (teclado, control, etc.).
+## Paso 7: Inserta el script _PlayerMovement_ en el objeto. Este script controlará el movimiento del objeto dentro de la escena según las teclas asignadas en el paso anterior.
+## Paso 8: Crea el prefab de la bala junto con su script. para hacer esto tienes que... (PON INFORMACION AQUI NO ME RECUERDO BIEN EL PROCESO 😔)
+## Paso 9: Añade el script _PlayerShooting_ al personaje/objeto. Este script controlará el disparo de la bala desde el personaje. A continuación, te mostramos el script que se encarga de disparar:
+## Al completar estos pasos, tu personaje debería poder moverse de manera rápida y lenta, rotar sobre el eje Y, disparar balas, y saltar.
 
 # Parte III: Algunos detalles adiciionales
-# Parte _: Opiniones Personales
+
+# Opiniones Personales acerca del Proyecto
 
 ## Sebastián Negrón:
 
