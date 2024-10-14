@@ -1,4 +1,4 @@
-![Untitled video - Made with Clipchamp (4)](https://github.com/user-attachments/assets/53380341-2445-4f62-b384-3368523df04b)# Go Ahead and Jump
+# Go Ahead and Jump
 
 # Introducción: 
 
@@ -73,11 +73,15 @@
 
 # Opiniones Personales acerca del Proyecto
 
-## Sebastián Negrón: El proyecto me ayudó muchísimo a practicar la parte de la física y el movimiento en la creación de videojuegos. Durante las clases, me quedé con algunas lagunas y dificultades al entender ciertos conceptos, pero este reto me ayudó a solidificar mi conocimiento. Además, me gustó mucho explorar otros detalles adicionales, como el cambio del cielo y el terreno utilizado. Creo que encaja perfectamente con el diseño del robot.
+## Sebastián Negrón: 
+
+## El proyecto me ayudó muchísimo a practicar la parte de la física y el movimiento en la creación de videojuegos. Durante las clases, me quedé con algunas lagunas y dificultades al entender ciertos conceptos, pero este reto me ayudó a solidificar mi conocimiento. Además, me gustó mucho explorar otros detalles adicionales, como el cambio del cielo y el terreno utilizado. Creo que encaja perfectamente con el diseño del robot.
 
 ## Mayra Lago:
 
 ## Este trabajo me sirvió para jugar un poco más con la física y las acciones dentro de un juego. Desde hacer que el robot tuviera "retroceso" a la hora de disparar o que las balas salieran saltando por el mapa. Por lo que me sirvió para explorar las mecánicas que se incorporaron y discutieron en clase. Aunque por otro lado, fue algo difícil lidiar con algunos problemas de sincronización en Unity, ya que en ocaciones las acciones que estaban programadas e implementadas no le funcionaban al resto de compañeros. Sin embargo pudimos realizar el trabajo de manera satisfactoria.  
 
 ## Jancarlos González:
+
+## Este challenge me ayudo para entender el nuevo sistemas de input. Ya que el anterior a mi entender es mucho mas facil de entender como es que funciona, sin embargo el nuevo es mas facil de trabajar ya que no te tienes que saber mucho codigo para que funcione. Ademas de siempre con cada challenge repasar conceptos anteriores y descubrir cosas nuevas que no se habian dado en clase como en esta ocacion lo de la camara que es algo nuevo y que descubrio mi compañero Sebastian.
 
