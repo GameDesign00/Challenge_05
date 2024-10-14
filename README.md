@@ -52,7 +52,7 @@
 ![image](https://github.com/user-attachments/assets/fb46d4e7-f15d-476e-aa06-34ea8b87b948)
 
 
-## Al completar estos pasos, tu personaje debería poder moverse de manera rápida o lenta, rotar sobre el eje Y, disparar balas, y saltar. (INSERTAR VIDEOS)
+## Al completar estos pasos, tu personaje debería poder moverse de manera rápida o lenta, rotar sobre el eje Y, disparar balas, y saltar. 
 ![Untitled video - Made with Clipchamp (4)](https://github.com/user-attachments/assets/e0911d30-4af0-4fae-b9cc-d2ed54f37bf8)
 ![Untitled video - Made with Clipchamp (5)](https://github.com/user-attachments/assets/5cf72540-5ce7-4ecd-bd28-68e8315b8db2)
 ![Untitled video - Made with Clipchamp (6)](https://github.com/user-attachments/assets/51a51e65-7625-4629-a547-125763e0e4bc)
