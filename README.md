@@ -1,4 +1,4 @@
-# Go Ahead and Jump
+![Untitled video - Made with Clipchamp (4)](https://github.com/user-attachments/assets/53380341-2445-4f62-b384-3368523df04b)# Go Ahead and Jump
 
 # Introducción: 
 
@@ -52,6 +52,11 @@
 
 
 ## Al completar estos pasos, tu personaje debería poder moverse de manera rápida o lenta, rotar sobre el eje Y, disparar balas, y saltar. (INSERTAR VIDEOS)
+![Untitled video - Made with Clipchamp (4)](https://github.com/user-attachments/assets/e0911d30-4af0-4fae-b9cc-d2ed54f37bf8)
+![Untitled video - Made with Clipchamp (5)](https://github.com/user-attachments/assets/5cf72540-5ce7-4ecd-bd28-68e8315b8db2)
+![Untitled video - Made with Clipchamp (6)](https://github.com/user-attachments/assets/51a51e65-7625-4629-a547-125763e0e4bc)
+![Untitled video - Made with Clipchamp (7)](https://github.com/user-attachments/assets/42eebe3d-93fb-4035-94b8-a535958be95c)
+
 
 # Parte III: Algunos Detalles Adicionales
 ## Decidimos explorar un poco más y añadimos algunos componentes adicionales para mejorar el resultado final.
