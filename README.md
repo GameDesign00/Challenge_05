@@ -51,6 +51,16 @@
 ## Paso 9: Añade el script _PlayerShooting_ al personaje/objeto. Este script controlará el disparo de la bala desde el personaje. A continuación, te mostramos el script que se encarga de disparar:
 ![image](https://github.com/user-attachments/assets/fb46d4e7-f15d-476e-aa06-34ea8b87b948)
 
+## Explicación del Jump y Sprint:
+
+## Jump:
+![Screenshot 2024-10-13 204925](https://github.com/user-attachments/assets/73c5bfa5-02f2-41bf-91f7-c8caf8d2510f)
+![Screenshot 2024-10-13 205041](https://github.com/user-attachments/assets/8abf12f5-acee-4468-bc1a-e3725ca12e1c)
+
+## Sprint:
+## Para lograr el sprint primero se puso que el nuevo sistema de input reconociera el shift o ctrl. Luego se hizo que si das al shift la velocidad de movimiento se multiplique por la asignada y si le das al ctrl vuelva a la normalidad
+![Screenshot 2024-10-13 204914](https://github.com/user-attachments/assets/fca657f8-a503-4ea0-98b4-9884ef8c109e)
+![Screenshot 2024-10-13 205031](https://github.com/user-attachments/assets/559b8647-f7e8-4c95-a383-b3db2f87b5d7)
 
 ## Al completar estos pasos, tu personaje debería poder moverse de manera rápida o lenta, rotar sobre el eje Y, disparar balas, y saltar. 
 ![Untitled video - Made with Clipchamp (4)](https://github.com/user-attachments/assets/e0911d30-4af0-4fae-b9cc-d2ed54f37bf8)
