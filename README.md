@@ -54,6 +54,7 @@
 ## Explicación del Jump y Sprint:
 
 ## Jump:
+## Para crear el jump, se utiliza el vector 3 y se toma en cuenta la fuerza del salto. Además de que se añade la fuerza del salto a la velocidad del rigidbody del robot.
 ![Screenshot 2024-10-13 204925](https://github.com/user-attachments/assets/73c5bfa5-02f2-41bf-91f7-c8caf8d2510f)
 ![Screenshot 2024-10-13 205041](https://github.com/user-attachments/assets/8abf12f5-acee-4468-bc1a-e3725ca12e1c)
 
@@ -93,5 +94,5 @@
 
 ## Jancarlos González:
 
-## Este challenge me ayudo para entender el nuevo sistemas de input. Ya que el anterior a mi entender es mucho mas facil de entender como es que funciona, sin embargo el nuevo es mas facil de trabajar ya que no te tienes que saber mucho codigo para que funcione. Ademas de siempre con cada challenge repasar conceptos anteriores y descubrir cosas nuevas que no se habian dado en clase como en esta ocacion lo de la camara que es algo nuevo y que descubrio mi compañero Sebastian.
+## Este challenge me ayudó para entender el nuevo sistemas de input. Ya que el anterior a mi entender es mucho mas fácil de entender como es que funciona, sin embargo el nuevo es mas fácil de trabajar ya que no te tienes que saber mucho código para que funcione. Además de siempre con cada challenge repasar conceptos anteriores y descubrir cosas nuevas que no se habían dado en clase como en esta ocasión lo de la cámara que es algo nuevo y que descubrió mi compañero Sebastián.
 
